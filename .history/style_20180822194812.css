@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Rubik', sans-serif;
+    src: url("hhttps://fonts.googleapis.com/css?family=Rubik" rel="stylesheetttp://www.example.com/fonts/example");
+}
+body{
+    background-color: #ecf0f1;
+}
+header{
+    align-items: baseline;
+    height: 100%;
+    padding: 20px;
+    background-color: black;
+    
+}
+.title {
+    color: antiquewhite
+}
+.dropdownnav {
+    background-color: #ecf0f1;
+    padding: 10px;
+    width: 200px;
+    align-items: center;
+}
